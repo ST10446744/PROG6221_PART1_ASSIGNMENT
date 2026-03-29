@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faiza\\source\\repos\\CyberSecurityChatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4043DE4D-AC9B-460D-95AD-5FC5182B3FE6}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|c:\\users\\faiza\\source\\repos\\cybersecuritychatbot\\cybersecuritychatbot\\.gtihub\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{4043DE4D-AC9B-460D-95AD-5FC5182B3FE6}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\.gtihub\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\faiza\\source\\repos\\CyberSecurityChatbot\\CyberSecurityChatbot\\.gtihub\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": "CyberSecurityChatbot\\.gtihub\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\faiza\\source\\repos\\CyberSecurityChatbot\\CyberSecurityChatbot\\.gtihub\\workflows\\ci.yml",
+              "RelativeToolTip": "CyberSecurityChatbot\\.gtihub\\workflows\\ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-29T18:55:47.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
